@@ -4,6 +4,10 @@ Um guia prático e objetivo com as melhores práticas para a criação e formata
 
 ---
 
+Não sabe por onde começar? [Clique aqui. Monta meu currículo?](https://montameucurriculo.com/)
+
+---
+
 ## 📑 Índice
 
 - [1️⃣ Formatação e Tipografia](#1️⃣-formatação-e-tipografia)
@@ -31,13 +35,13 @@ Um guia prático e objetivo com as melhores práticas para a criação e formata
 
 ## 2️⃣ Dados de Contato
 
-- **Telefone**: Apenas 1 número (WhatsApp é aceitável).
-- **Email**: Incluir um endereço profissional.
+- **Telefone**: Apenas 1 número (WhatsApp é aceitável). 31 9 8787-5454 (WhatsApp)
+- **Email**: Incluir um endereço de email profissional.
 - **LinkedIn**: Colocar a URL por extenso (ex: `linkedin.com/in/seu-perfil`) em vez de um link clicável.
   - Facilita a impressão.
   - Permite customizar a URL para ficar mais profissional.
   - Qualquer pessoa consegue digitar e acessar.
-- **Endereço**: Não incluir (ou apenas cidade/estado, se necessário).
+- **Endereço**: Não incluir endereço completo (ou apenas cidade/estado, se necessário).
 - **Idade, CEP, Estado Civil**: Opcional (recomenda-se omitir).
 
 ## 3️⃣ Estrutura de Seções
