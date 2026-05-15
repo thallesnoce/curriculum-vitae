@@ -92,6 +92,7 @@ Não sabe por onde começar? [Clique aqui. Monta meu currículo?](https://montam
 - **Nome do arquivo**: Usar o nome completo (ex: `Nome_Sobrenome_Curriculo.pdf` ou `.docx`).
 - **Teste de impressão**: Verificar se as URLs e os dados de contato ficam legíveis.
 - **Finalização**: Revisar uma última vez antes de enviar.
+- **Video**: https://youtu.be/npQSYTmuXTE?si=affSHIStI8bqmQm_
 
 ---
 
