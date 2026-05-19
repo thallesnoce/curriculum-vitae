@@ -6,6 +6,10 @@ Um guia prático e objetivo com as melhores práticas para a criação e formata
 
 Não sabe por onde começar? [Clique aqui. Monta meu currículo?](https://montameucurriculo.com/)
 
+Procurando o primeiro emprego ou um novo emprego? [Confira o Guia de Busca de Emprego.](./Guia_Busca_Emprego.md)
+
+Quer saber quais conhecimentos são esperados em cada fase da carreira em TI? [Veja o Guia de Carreira em TI.](./Guia_Carreira_TI.md)
+
 ---
 
 ## 📑 Índice
