@@ -1,4 +1,4 @@
-# Guia de Conhecimentos por Fase de Carreira em TI
+8# Guia de Conhecimentos por Fase de Carreira em TI
 
 Este documento serve como um guia para estudantes e profissionais de TI entenderem quais habilidades e conhecimentos são geralmente esperados em cada fase da carreira de desenvolvimento de software.
 
@@ -96,3 +96,4 @@ http://www.take.net/
 https://www.hotmart.com/en/
 https://www.frameworkdigital.com.br
 https://www.infojobs.com.br/
+https://zupinnovation.com/ 
