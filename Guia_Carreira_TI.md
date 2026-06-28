@@ -95,3 +95,4 @@ http://www.minutrade.com.br/
 http://www.take.net/
 https://www.hotmart.com/en/
 https://www.frameworkdigital.com.br
+https://www.infojobs.com.br/
