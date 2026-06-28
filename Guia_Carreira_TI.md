@@ -62,3 +62,36 @@ O Sênior resolve problemas de negócio complexos, desenha a arquitetura de sist
     *   Saber exatamente quando escolher SQL, NoSQL ou outros tipos de armazenamento (Time-Series, Graph DBs).
 *   **Performance e Segurança:** Profiling de aplicações, identificação de gargalos de memória/CPU, práticas do OWASP Top 10.
 *   **Soft Skills e Liderança:** Mentoria técnica, negociação com stakeholders, estimativa de projetos complexos, visão de produto e impacto no negócio.
+
+# Empresas
+
+http://www.totvs.com/trabalhe-conosco
+http://estagiar.globo.com/index.jsp
+http://www.aorta.com.br/pt-br/faca/fa%C3%A7a-parte.html
+http://www.vale.com/vale/cgi/cgilua.exe/sys/start.htm?tpl=home
+http://www.jetdev.com.br/
+http://www.squadra.com.br/squadra
+http://www.bhs.com.br/default.aspx
+https://careers3.accenture.com/taleo/taleo.asp?countryname=Brazil
+http://www.ceviu.com.br/
+http://www.grupomult.com.br/trabalheconosco.asp
+http://www.algar.com.br/v5/
+http://www.sysmap.com.br/
+http://www.cit.com.br/
+http://www.tty2000.com.br/
+http://www.auge.com.br/
+http://www.powerlogic.com.br/powerlogic/ecp/comunidade.do
+http://www.pdcase.com/site/
+http://www.prosegur.com.br/BR/TrabalheProsegur/index.htm
+http://www.flag.com.br/english/home/home.html
+http://www.bhtec.com.br/Cmi/PaginaMaster.aspx?11&Sessao=2
+http://www.bms.com.br/novo_site/home2.asp
+http://join.thoughtworks.com/
+http://www.groupsoftware.com.br/empresa/oportunidades.aspx
+http://www.dtisistemas.com.br/
+http://www.avenuecode.com/
+http://www.almavivadobrasil.com.br/
+http://www.minutrade.com.br/
+http://www.take.net/
+https://www.hotmart.com/en/
+https://www.frameworkdigital.com.br
