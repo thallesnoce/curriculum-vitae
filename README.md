@@ -10,6 +10,8 @@ Procurando o primeiro emprego ou um novo emprego? [Confira o Guia de Busca de Em
 
 Quer saber quais conhecimentos são esperados em cada fase da carreira em TI? [Veja o Guia de Carreira em TI.](./Guia_Carreira_TI.md)
 
+Vai apresentar esse conteúdo para uma turma? [Use o material da palestra "Montagem de Currículo Competitivo".](./palestra/)
+
 ---
 
 ## 📑 Índice
